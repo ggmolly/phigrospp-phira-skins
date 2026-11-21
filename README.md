@@ -12,6 +12,8 @@ Open the **Mods** tab of the game's settings and pick Phira skins in the catalog
 
 The mod adds a **Phira skins** tab to the settings, with a card per pack: a frame of its hit effect, its name, who made it, and its tap, drag and flick.
 
+![The tab with the game's own skin in use and two imported packs](tab.jpg)
+
 | Row | |
 |---|---|
 | Import a pack | Opens Android's file picker on the pack's `.zip` |
@@ -21,6 +23,8 @@ The mod adds a **Phira skins** tab to the settings, with a card per pack: a fram
 A pack imported again replaces the one of the same name. Packs are kept in `phigros++/phira-skins/`.
 
 ## What a pack changes
+
+![A chart played with the Sea of Dreams pack: its notes and its hit effect](playing.jpg)
 
 | File of the pack | |
 |---|---|
