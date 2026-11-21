@@ -2,6 +2,8 @@
 
 A mod for [Phigros++](https://github.com/ggmolly/PhigrosPlusPlus) that plays with the resource packs made for [Phira](https://github.com/TeamFlos/phira): the notes, the hit effect and the hit sounds of a pack replace the game's, and the judge lines take its colours.
 
+![Two imported packs in the mod's tab, then a chart played with one of them](preview.gif)
+
 ## Install
 
 Open the **Mods** tab of the game's settings and pick Phira skins in the catalog, or open [this link](phigrospp://install/ggmolly/phigrospp-phira-skins) on the device.
